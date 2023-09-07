@@ -1,1 +1,1 @@
-/workspace/Rust_Fundamentals/guessing_game/target/debug/guessing_game: /workspace/Rust_Fundamentals/guessing_game/src/main.rs
+/home/hakan/Desktop/Hakan/Programming/Rust/Rust_Fund/guessing_game/target/debug/guessing_game: /home/hakan/Desktop/Hakan/Programming/Rust/Rust_Fund/guessing_game/src/main.rs
