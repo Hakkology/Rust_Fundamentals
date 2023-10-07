@@ -1,1 +1,1 @@
-/workspace/Rust_Fundamentals/fibonacci/target/debug/fibonacci: /workspace/Rust_Fundamentals/fibonacci/src/main.rs
+/home/hakan/Desktop/Hakan/Programming/Rust/Rust_Fund/8-fibonacci/target/debug/fibonacci: /home/hakan/Desktop/Hakan/Programming/Rust/Rust_Fund/8-fibonacci/src/main.rs

@@ -1,1 +1,1 @@
-/workspace/Rust_Fundamentals/repetitions/target/debug/repetitions: /workspace/Rust_Fundamentals/repetitions/src/main.rs
+/home/hakan/Desktop/Hakan/Programming/Rust/Rust_Fund/6-repetitions/target/debug/repetitions: /home/hakan/Desktop/Hakan/Programming/Rust/Rust_Fund/6-repetitions/src/main.rs
