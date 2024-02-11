@@ -1,0 +1,11 @@
+/home/hakan/Desktop/Projects/Rust/Rustlang/3-guessing_game/target/debug/deps/libgetrandom-cd29c251b7149a95.rmeta: /home/hakan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/lib.rs /home/hakan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/error.rs /home/hakan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/util.rs /home/hakan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/error_impls.rs /home/hakan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/util_libc.rs /home/hakan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/use_file.rs /home/hakan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/linux_android.rs
+
+/home/hakan/Desktop/Projects/Rust/Rustlang/3-guessing_game/target/debug/deps/getrandom-cd29c251b7149a95.d: /home/hakan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/lib.rs /home/hakan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/error.rs /home/hakan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/util.rs /home/hakan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/error_impls.rs /home/hakan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/util_libc.rs /home/hakan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/use_file.rs /home/hakan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/linux_android.rs
+
+/home/hakan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/lib.rs:
+/home/hakan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/error.rs:
+/home/hakan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/util.rs:
+/home/hakan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/error_impls.rs:
+/home/hakan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/util_libc.rs:
+/home/hakan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/use_file.rs:
+/home/hakan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/linux_android.rs:
